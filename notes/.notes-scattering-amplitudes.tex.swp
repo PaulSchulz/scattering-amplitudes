@@ -1,0 +1,134 @@
+\documentclass[11pt]{book}
+    \title{\textbf{Notes on the Book\\Scattering Amplitudes in Gauge Theory and Gravity}}
+    \author{Paul Schulz}
+    \date{}
+    
+    \addtolength{\topmargin}{-3cm}
+    \addtolength{\textheight}{3cm}
+
+	\setlength{\parindent}{0pt}
+	\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\chapter{Introduction}
+This document contains notes on the book:
+
+\begin{quote}
+Scattering Amplitudes in Gauge Theory and Gravity\\
+by Henriette Elvang and Yu-tin Huang.\\
+Cambridge University Press (2015).\\
+ISBN: 9781107069251
+\end{quote}
+
+Errata has been published at: https://sites.google.com/a/umich.edu/h-elvang/home/amplitudes-textbook/textbook-errata
+
+\begin{quote}
+Please send a message to elvang(at)umich.(DoNotIncludeThis.)edu when you find a mistake in the book.
+
+Errata: (updated 4/27/2016)
+\end{quote}
+
+Errors in this document are the sole responsibility of the editor, and should be referred directly via the email below:
+
+Editor: Paul Schulz <paul@mawsonlakes.org> 
+
+\chapter{Errata}
+\section{Chapter 2}
+\begin{description}
+
+\item[p.18] Bottom: the Feynman rules for outgoing fermions should of course have bars on the $u_{+/-}$ in the gray box. Somehow those got erased in the editorial process, booo! 
+
+\item[p.26] Exercise 2.10(c). Missing subscripts $a\dot{b}$ on the RHS of the expression for the polarization. 
+(Reyimuaji Yakefu 8/22/2016)
+
+\item[p.27] Equation (2.55). Missing minus after the last equality. So it should read 
+\[... = - \left<13\right>[3q]\] 
+(Filipe Rudrigues 3/23/2015)
+
+\item[p.31] Equation (2.67): index mistake - last term should have index structure $A^\mu A^\nu A_\mu A_\nu$. (João Caldeira 4/27/2016) 
+
+\item[p.31] Equation (2.72): $f^{12b} f^{b34}  =  - Tr(1234) + Tr(1243) + Tr(1342) - Tr(1432)$.
+(Steve Naculich and Anatoliy Dovbnya 7/23/2016)
+
+\item[p.33] Second line, second equation should be $[q_2 3] <13> = - [q_2 2] <12>$. 
+(João Caldeira 4/27/2016) 
+
+\item[p.36] Equation (2.92) and line below: $A_4(...)$ should be $A_4[...]$ to properly indicate that these are color-ordered amplitudes (three instances). Also, note inconsistency about factors of $g^2$ between (2.73), (2.91), and (2.92).
+(Reyimuaji Yakefu 8/22/2016)
+
+\end{description}
+
+\section{Chapter 3}
+
+\begin{description}
+\item[p.58] Exercise 3.5. Right above (3.31) the text should refer to Exercise 2.17 instead of Exercise 2.16.
+(Filipe Rudrigues 3/23/2015)
+
+\item[p.66] Equation (3.49): the helicity assignment for line 4 in the diagram should be +, not -. (Andrew Ballin, 5/31/2018)
+
+\item[p.67] Equation (3.52): the helicity assignment for line 4 in the diagram should be +, not -. (Andrew Ballin, 5/31/2018)
+
+\end{description}
+
+\section{Chapter 4}
+
+\begin{description}
+
+\item[p.76] Equation (4.25): subscript on b in the second equation of the first line should be + not -, i.e. it should read $[Q,c_+(i)] = [i| b_+(i)$.
+(Filipe Rudrigues 3/30/2015)
+
+\end{description}
+
+\section{Chapter 5}
+
+\begin{description}
+
+\item[p.97] Equation (5.6): the expression for $K_{a \dot{a}}$ is missing a sum over $i$. Also, in the expression for $Q^{aA}$ the $[i|$ has an erroneous subscript $i$.
+(Filipe Rudrigues 5/15/2015)
+
+\item[p.100] Below (5.20): the (super)twistors scale homogeneously with $t_i^{-1}$, not $t_i$.
+(Filipe Rudrigues 5/15/2015)
+
+\end{description}
+
+\section{Chapter 6}
+
+\begin{description}
+
+\item[p.122] Equation (6.15): the second S should have a dagger. Also, it would have been more natural to have called the summation index $f$ (instead of $i$) since the sum is over all possible final states. 
+
+\item[p.123] Equation (6.19): in the triangle and bubbles integrals, it should be $(2\pi)^D$ instead of $(2\pi)^4$.
+(Filipe Rudrigues 6/1/2015)
+
+\item[p.129] Equation (6.33): the third integral coefficient (14-channel) is wrong. The numerator should be  $u (10 s^2 + 2 s u + 3 u^2)$.
+(Jung-Wook Kim 12/12/2017 and David Damgaard 12/6/2018)
+
+\end{description}
+
+\section{Chapter 8}
+
+\begin{description}
+
+\item[p.166] Equation (8.20): missing equal-sign between the two diagrams.
+(Fayez Abuajamieh 9/12/2016)
+
+\item[p.168] Above equation (8.25): the solution $\ell^{(2)}$ forces the vertex to be MHV (not anti-MHV), as indicated correctly in the RHS figure in (8.25).
+(Fayez Abuajamieh 9/12/2016)
+
+\end{description}
+
+\section{Chapter 9}
+
+\begin{description}
+
+\item[p.187] 11 lines below equation~(9.24): $k \rightarrow (n-k-2)$ should be $k \rightarrow n-k$. 
+(Xing Wang 6/16/2021)
+
+\end{description}
+
+\end{document}
+

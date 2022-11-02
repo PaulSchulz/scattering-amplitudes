@@ -1,0 +1,16 @@
+#+TITLE: Scattering Amplitudes
+
+* Introduction
+ Notes and examples from scattering amplitude calculations.
+
+** References
+*** Books
+- Scattering Amplitudes in Gauge Theory and Gravity - H. Elvang, Y-T. Huang :: A
+  good place to start. See errata:
+  [[https://sites.google.com/a/umich.edu/h-elvang/home/amplitudes-textbook/textbook-errata]]
+
+- Grassmannian Geometry of Scattering Amplitudes - N. Arkani-Hamed et.al. :: Another useful book.
+
+  
+
+
